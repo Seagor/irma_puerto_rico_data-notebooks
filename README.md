@@ -1,5 +1,5 @@
 
-# Hurricane Irman Response Data and Notebooks
+# Hurricane Irma Response Data and Notebooks
 
 This repo has datasets from the Puerto Rico GIS portal http://www2.pr.gov/agencias/gis/descargaGeodatos/Pages/default.aspx
 
